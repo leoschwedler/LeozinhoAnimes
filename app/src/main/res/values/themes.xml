@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LeozinhoAnimes" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimaryDark">@color/black</item>
+    </style>
+
+    <style name="Theme.LeozinhoAnimes" parent="Base.Theme.LeozinhoAnimes" />
+</resources>
